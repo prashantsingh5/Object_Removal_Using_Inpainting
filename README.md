@@ -56,13 +56,16 @@ python object_removal.py --image path/to/image.jpg --no-preserve-quality
 
 ## Example
 **Input Image:**  
-![Input](docs/input.jpg)
+![1](https://github.com/user-attachments/assets/c58ec431-fc94-4c56-a8e0-f2b23ae783d0)
+
 
 **Selection Process:**  
-![Selection](docs/selection.jpg)
+![2](https://github.com/user-attachments/assets/9704f6f8-436f-428f-bdb9-56e694df67f3)
+
 
 **Output Image:**  
-![Output](docs/output.jpg)
+![3](https://github.com/user-attachments/assets/e8e57084-7925-40fd-936d-79422a72b981)
+
 
 ## Contributing
 Contributions are welcome! Feel free to fork the repository and submit pull requests.
