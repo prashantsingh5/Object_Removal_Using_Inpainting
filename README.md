@@ -1,3 +1,18 @@
+# ⚠️ Archived Project
+This repository is no longer actively maintained.
+
+The functionality from this project has been integrated into a newer system:
+
+👉 https://github.com/prashantsingh5/ai-interior-design
+
+This repository is preserved for reference and historical purposes.
+
+---
+
+# Original Project Description
+
+<old README content here>
+
 # Object Removal Tool
 
 ## Overview
